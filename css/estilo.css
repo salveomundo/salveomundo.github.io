@@ -1,0 +1,35 @@
+/* Configuração de Fonte */
+@font-face{
+    font-family: LuckiestGuy;
+    src: url("../fonts/LuckiestGuy.ttf");
+    font-weight: bold;
+}
+
+/* Tags */
+body{
+    background: url("../images/background.jpg") no-repeat center;
+}
+
+nav{
+    opacity: 0.6;
+}
+
+article{
+    background: rgba(255, 255, 255, 0.5)
+}
+
+h2{
+    font-family: LuckiestGuy, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  #006400;
+    text-align: center;
+}
+/* ID's */
+#logo{
+    font-family: LuckiestGuy, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color:  #006400;
+}
+
+.imagens{
+    height: 100px;
+}
